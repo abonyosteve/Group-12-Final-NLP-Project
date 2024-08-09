@@ -2,6 +2,8 @@
 
 ## Toxic Language Detection System
 
+![WhatsApp Image 2024-08-08 at 23 31 44_3c638a92](https://github.com/user-attachments/assets/1c186f77-4d62-491c-8379-9e5ccda97b32)
+
  ## Business Understanding
  ### Overview :
  The Toxigen dataset provides a collection of sentiments made online and targeted towards a
